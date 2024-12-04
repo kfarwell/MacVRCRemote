@@ -2,6 +2,8 @@
 
 Remote-control VRChat from your Mac.
 
+[Download](https://github.com/kfarwell/MacVRCRemote/releases/latest/download/MacVRCRemote.zip)
+
 ## Why??
 
 I like to co-work in VRChat on Vision Pro using ALVR and Mac Virtual Display, but the hand-tracking controls are unreliable and switching back & forth between keyboard/controllers to move around or mute/PTT while working is inconvenient. So here is a small macOS utility to do that from your keyboard, via OSC over the network.
